@@ -1,0 +1,6 @@
+regex
+python_iptables
+nmap
+requests
+pyfiglet
+scapy
