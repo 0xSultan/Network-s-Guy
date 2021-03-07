@@ -1,7 +1,8 @@
 # Network-s-Guy
 simple python script
 
-#requirements
+# requirements
+  
 re  
 iptc  
 nmap  
