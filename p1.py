@@ -4,7 +4,6 @@ import sys
 import iptc
 import nmap
 import socket
-import logging
 import requests
 import subprocess
 from pyfiglet import *
