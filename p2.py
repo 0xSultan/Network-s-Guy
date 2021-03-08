@@ -80,4 +80,3 @@ def point2():
         ScapySniff()
 
 
-point2()
